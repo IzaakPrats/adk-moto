@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ADKMoto!</string>
+    <string name="app_name">ADK Moto</string>
+    <string name="initializing">Initializing...</string>
+	<string name="speak">Speak Now</string>
+	<string name="processing">Processing</string>
+	<string name="error">Error</string>
+	<string name="not_listening">Not Listening!</string>
+	<string name="disconnected">Accessory Disconnected</string>
+</resources>
